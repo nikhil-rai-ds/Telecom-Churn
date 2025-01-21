@@ -1,0 +1,25 @@
+From cd4fd7e7f2eaf592435643a0377575ea74354d14 Mon Sep 17 00:00:00 2001
+From: nikhil-rai-ds <nikhil.dce.professional@gmail.com>
+Date: Tue, 21 Jan 2025 12:58:17 +0530
+Subject: [PATCH 3/3] Summarizing the messages
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index c9309eb..336d494 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,5 @@
+ # Telecom-Churn
+ Building a Predictive analysis on Customer Churn rate
+ 
+-Here I am doing an edit to my read me file for churn case study
+\ No newline at end of file
++Here I am doing an edit to my read me file for churn case study
++and I am changing it too
+\ No newline at end of file
+-- 
+2.47.1.windows.1
+

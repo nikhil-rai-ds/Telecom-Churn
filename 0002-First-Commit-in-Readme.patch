@@ -1,0 +1,22 @@
+From 55a4c5c0e80b743a2713602b88b4a8585e5bc4a5 Mon Sep 17 00:00:00 2001
+From: Nikhil Rai <Nikhil.Rai@Polestarllp.local>
+Date: Wed, 15 Jan 2025 17:01:10 +0530
+Subject: [PATCH 2/3] First Commit in Readme
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 043b685..c9309eb 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,4 @@
+ # Telecom-Churn
+ Building a Predictive analysis on Customer Churn rate
++
++Here I am doing an edit to my read me file for churn case study
+\ No newline at end of file
+-- 
+2.47.1.windows.1
+
